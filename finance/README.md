@@ -12,3 +12,10 @@
 |  [![](https://raw.githubusercontent.com/SandhyaSoniG/RepositoryForDSPractice/master/images/dsimage.jpg)](https://raw.githubusercontent.com/SandhyaSoniG/RepositoryForDSPractice/master/images/dsimage.jpg) |  Account Project |
 | Banking Project  |  [![](https://raw.githubusercontent.com/SandhyaSoniG/RepositoryForDSPractice/master/images/dsimage.jpg)](https://raw.githubusercontent.com/SandhyaSoniG/RepositoryForDSPractice/master/images/dsimage.jpg) |
 |  [![](https://raw.githubusercontent.com/SandhyaSoniG/RepositoryForDSPractice/master/images/dsimage.jpg)](https://raw.githubusercontent.com/SandhyaSoniG/RepositoryForDSPractice/master/images/dsimage.jpg) |  Energy Project |
+
+
+```python
+for i in range(0.100.3)
+	print('hello')
+print('done)
+```
