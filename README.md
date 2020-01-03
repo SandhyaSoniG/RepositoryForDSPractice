@@ -1,4 +1,11 @@
 # RepositoryForDSPractice
 This repository contains all the assignments related to python and Data science
 
->Let's see what happens?
+- Point 1
+- Point 2
+
+___
+
+```
+print('hello')
+```
